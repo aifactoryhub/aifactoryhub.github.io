@@ -144,12 +144,12 @@
     <div class="UnderlineNav width-full user-profile-nav js-sticky top-0">
         <nav class="UnderlineNav-body" data-pjax aria-label="User profile">
             <a aria-current="page" class="UnderlineNav-item mr-0 mr-md-1 mr-lg-3 selected " href="https://aifactoryhub.github.io">
-                Overview
+                Tasks
             </a>
             <a class="UnderlineNav-item mr-0 mr-md-1 mr-lg-3 " href="https://aifactoryhub.github.io/posts/">
                 Posts
                 <span class="Counter hide-lg hide-md hide-sm">
-                    1
+                    3
                 </span>
             </a>
             <a class="UnderlineNav-item mr-0 mr-md-1 mr-lg-3 " href="https://aifactoryhub.github.io/about/">
@@ -157,47 +157,128 @@
             </a>
         </nav>
     </div>
+
+
     <div class="position-relative">
         <div class="mt-4">
-            <div class="js-pinned-items-reorder-container">
-                <h2 class="f4 mb-2 text-normal">
-                    Pinned
-                </h2>
-
-                <ol class="d-flex flex-wrap list-style-none gutter-condensed mb-4 js-pinned-items-reorder-list">
+                <div class="js-pinned-items-reorder-container">
+                    <h2 class="f4 mb-2 text-normal">
+                        Pinned
+                    </h2>
+                </div>
+        </div>        
+        <div id="user-repositories-list">
+            <div class="sota-table">
+                <table>
+                    <tbody><tr>
+                        <th class="text-left">NAME</th>
+                        <th class="text-left">TYPE</th>
+                        <th class="text-left">PROVIDER</th>
+                        <th class="text-left">DATASET</th>
+                        <th class="text-left">BEST MODEL</th>
+                        <th class="text-center">EVALUATION</th>
+                        <th class="text-center">SCORE</th>
+                        <th class="text-center">PLATFORM</th>
+                        <th class="text-center">TAG</th>
+                    </tr>
                     
-                    <li class="col-12 col-md-6 col-lg-6 mb-3 d-flex flex-content-stretch">
-                        <div
-                            class="Box pinned-item-list-item d-flex p-3 width-full js-pinned-item-list-item public source  sortable-button-item">
-                            <div class="pinned-item-list-item-content" name="pinned-post">
-                                <div class="d-flex width-full flex-items-center position-relative">
-                                    <svg class="octicon octicon-repo mr-2 text-gray flex-shrink-0" viewBox="0 0 12 16"
-                                        version="1.1" width="12" height="16" aria-hidden="true">
-                                        <path fill-rule="evenodd"
-                                            d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z" />
-                                    </svg>
-                                    <a href="https://aifactoryhub.github.io/posts/my-first-post/" class="text-bold flex-auto min-width-0 ">
-                                        <span class="repo js-pinnable-item" title="My First Post">My First Post</span>
-                                    </a>
-                                </div>
-                                
-                                <div class="f6 text-gray mt-2">
-                                    Updated <relative-time datetime="2020-01-19"
-                                        class="no-wrap" title="Modify at 2020/01/19">
-                                        January 19, 2020</relative-time>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
+                    <tr>
+                        <td><a href="https://www.kaggle.com/c/2019-1st-ml-month-with-kakr/leaderboard">
+                            Titanic Survivors Prediction
+                        </a></td>
+                        <td><a href="https://www.kaggle.com/c/2019-1st-ml-month-with-kakr/leaderboard">
+                            tableau, binary classification
+                        </a></td>
+                        <td><a href="https://www.kaggle.com/c/2019-1st-ml-month-with-kakr/leaderboard">
+                            Kaggle Korea
+                        </a></td>
+                        <td><a href="https://www.kaggle.com/c/2019-1st-ml-month-with-kakr/leaderboard">
+                            Titanic
+                        </a></td>
+                        <td><a href="https://www.kaggle.com/c/2019-1st-ml-month-with-kakr/leaderboard">
+                            Park Hongseok
+                        </a></td>
+                        <td><a href="https://www.kaggle.com/c/2019-1st-ml-month-with-kakr/leaderboard">
+                            accuracy
+                        </a></td>
+                        <td><a href="https://www.kaggle.com/c/2019-1st-ml-month-with-kakr/leaderboard">
+                            0.91866
+                        </a></td>
+                        <td><a href="https://www.kaggle.com/c/2019-1st-ml-month-with-kakr/leaderboard">
+                            Kaggle
+                        </a></td>
+                        <td><a href="https://www.kaggle.com/c/2019-1st-ml-month-with-kakr/leaderboard">
+                            &#35;execise
+                        </a></td> 
+                    </tr>
                     
-                </ol>
-            </div>
+                    <tr>
+                        <td><a href="https://www.kaggle.com/c/2019-1st-ml-month-with-kakr/leaderboard">
+                            Titanic Survivors Prediction
+                        </a></td>
+                        <td><a href="https://www.kaggle.com/c/2019-1st-ml-month-with-kakr/leaderboard">
+                            tableau, binary classification
+                        </a></td>
+                        <td><a href="https://www.kaggle.com/c/2019-1st-ml-month-with-kakr/leaderboard">
+                            Kaggle Korea
+                        </a></td>
+                        <td><a href="https://www.kaggle.com/c/2019-1st-ml-month-with-kakr/leaderboard">
+                            Titanic
+                        </a></td>
+                        <td><a href="https://www.kaggle.com/c/2019-1st-ml-month-with-kakr/leaderboard">
+                            Park Hongseok
+                        </a></td>
+                        <td><a href="https://www.kaggle.com/c/2019-1st-ml-month-with-kakr/leaderboard">
+                            accuracy
+                        </a></td>
+                        <td><a href="https://www.kaggle.com/c/2019-1st-ml-month-with-kakr/leaderboard">
+                            0.91866
+                        </a></td>
+                        <td><a href="https://www.kaggle.com/c/2019-1st-ml-month-with-kakr/leaderboard">
+                            Kaggle
+                        </a></td>
+                        <td><a href="https://www.kaggle.com/c/2019-1st-ml-month-with-kakr/leaderboard">
+                            &#35;execise
+                        </a></td> 
+                    </tr>
+                    
+                    <tr>
+                        <td><a href="https://www.kaggle.com/c/2019-1st-ml-month-with-kakr/leaderboard">
+                            Titanic Survivors Prediction
+                        </a></td>
+                        <td><a href="https://www.kaggle.com/c/2019-1st-ml-month-with-kakr/leaderboard">
+                            tableau, binary classification
+                        </a></td>
+                        <td><a href="https://www.kaggle.com/c/2019-1st-ml-month-with-kakr/leaderboard">
+                            Kaggle Korea
+                        </a></td>
+                        <td><a href="https://www.kaggle.com/c/2019-1st-ml-month-with-kakr/leaderboard">
+                            Titanic
+                        </a></td>
+                        <td><a href="https://www.kaggle.com/c/2019-1st-ml-month-with-kakr/leaderboard">
+                            Park Hongseok
+                        </a></td>
+                        <td><a href="https://www.kaggle.com/c/2019-1st-ml-month-with-kakr/leaderboard">
+                            accuracy
+                        </a></td>
+                        <td><a href="https://www.kaggle.com/c/2019-1st-ml-month-with-kakr/leaderboard">
+                            0.91866
+                        </a></td>
+                        <td><a href="https://www.kaggle.com/c/2019-1st-ml-month-with-kakr/leaderboard">
+                            Kaggle
+                        </a></td>
+                        <td><a href="https://www.kaggle.com/c/2019-1st-ml-month-with-kakr/leaderboard">
+                            &#35;execise
+                        </a></td> 
+                    </tr>
+                    
+                </tbody>
+            </table>
+        </div>            
+            
         </div>
-        <div id="pinned-items-modal-wrapper"></div>
     </div>
 </div>
-</div>
-
 
     </main>
 </div>

@@ -1,4 +1,110 @@
-/*! * Primer-product * http://primer.github.io * * Released under MIT license. Copyright (c) 2019 GitHub Inc. */.flash {
+/*! * Primer-product * http://primer.github.io * * Released under MIT license. Copyright (c) 2019 GitHub Inc. */
+
+
+.sota-table {
+    font-family: Nunito;
+}
+
+.sota-table table {
+    border: 0px;
+    border-color: #e0e0e0;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    width: 100%;
+}
+
+.sota-table th {
+    background-color: #fff !important;
+    color: #4a4a4a;
+    font-weight: 600 !important;
+    font-size: 11px;
+    letter-spacing: 1.2px;
+    font-family: "SF Pro Display";
+    border-bottom: solid 1px #e1e1e1;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.sota-table td {
+    padding: 10px;
+    border-bottom: 1px solid;
+    border-color: #e0e0e0;
+}
+
+.sota-table td code {
+    overflow-x: scroll;
+    overflow-y: hidden;
+    display: block;
+    color: #9a9a9a;
+    font-size: 12px;
+}
+
+.sota-table td code::-webkit-scrollbar {
+    display: none;
+}
+
+.sota-table a {
+    font-size: 15px;
+}
+
+.sota-table td .paper-title {
+    font-weight: 600;
+    font-size: 15px !important;
+}
+
+.sota-table td {
+    font-size: 15px;
+}
+
+.sota-table td a {
+    font-size: 15px;
+}
+
+.sota-table td ion-icon {
+    font-size: 18px;
+    top: 2px;
+    position: relative;
+}
+
+.sota-table td .paper {
+    text-align: center;
+}
+
+.sota-table td .github {
+    text-align: center;
+}
+
+.sota-table td .paper ion-icon {
+    color: #1ab37c;
+}
+
+.sota-table td .github ion-icon {
+    color: #1f6bcd;
+}
+
+.sota-table td .meta-information {
+    font-size: 15px;
+}
+
+.sota-table .btn-primary {
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-size: 15px;
+    border: 0;
+    border-radius: 50px;
+    background-color: #21cbce;
+    padding: 5px 12px;
+    color: white !important;
+    text-decoration: none !important;
+}
+
+.sota-table .btn-primary:hover {
+    cursor: pointer;
+}
+
+.flash {
 	position:relative;
 	padding:16px;
 	color:#032f62;
