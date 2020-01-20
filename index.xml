@@ -6,37 +6,9 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jan 2020 03:08:31 +0900</lastBuildDate>
     
 	<atom:link href="https://aifactoryhub.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Kagglekorea_task_3</title>
-      <link>https://aifactoryhub.github.io/tasks/kagglekorea/kagglekorea_task_3/</link>
-      <pubDate>Mon, 20 Jan 2020 03:08:31 +0900</pubDate>
-      
-      <guid>https://aifactoryhub.github.io/tasks/kagglekorea/kagglekorea_task_3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kagglekorea_task_2</title>
-      <link>https://aifactoryhub.github.io/tasks/kagglekorea/kagglekorea_task_2/</link>
-      <pubDate>Mon, 20 Jan 2020 03:08:28 +0900</pubDate>
-      
-      <guid>https://aifactoryhub.github.io/tasks/kagglekorea/kagglekorea_task_2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kagglekorea_task_1</title>
-      <link>https://aifactoryhub.github.io/tasks/kagglekorea/kagglekorea_task_1/</link>
-      <pubDate>Mon, 20 Jan 2020 02:58:42 +0900</pubDate>
-      
-      <guid>https://aifactoryhub.github.io/tasks/kagglekorea/kagglekorea_task_1/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

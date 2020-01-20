@@ -8376,6 +8376,11 @@ a.tabnav-extra:hover {
 		display:flex!important
 	}
 }
+
+.page-responsive .Header.Details .Header-item.Details-content--hidden {
+	display:flex!important
+}
+
 .page-responsive .HeaderMenu--logged-out {
 	z-index:100;
 	width:300px;
