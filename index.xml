@@ -6,9 +6,73 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 20 Jan 2020 02:31:59 +0900</lastBuildDate>
     
 	<atom:link href="https://aifactoryhub.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://aifactoryhub.github.io/about/</link>
+      <pubDate>Mon, 20 Jan 2020 02:31:59 +0900</pubDate>
+      
+      <guid>https://aifactoryhub.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Car Model Classification</title>
+      <link>https://aifactoryhub.github.io/kagglekorea/task_202001210413/</link>
+      <pubDate>Sun, 19 Jan 2020 23:57:38 +0900</pubDate>
+      
+      <guid>https://aifactoryhub.github.io/kagglekorea/task_202001210413/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>House Price Prediction</title>
+      <link>https://aifactoryhub.github.io/kagglekorea/task_202001210412/</link>
+      <pubDate>Sun, 19 Jan 2020 23:57:38 +0900</pubDate>
+      
+      <guid>https://aifactoryhub.github.io/kagglekorea/task_202001210412/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ttt</title>
+      <link>https://aifactoryhub.github.io/gwangai/test/</link>
+      <pubDate>Sun, 19 Jan 2020 23:57:38 +0900</pubDate>
+      
+      <guid>https://aifactoryhub.github.io/gwangai/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ttt</title>
+      <link>https://aifactoryhub.github.io/kagglekorea/task_202001210411/</link>
+      <pubDate>Sun, 19 Jan 2020 23:57:38 +0900</pubDate>
+      
+      <guid>https://aifactoryhub.github.io/kagglekorea/task_202001210411/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ttt</title>
+      <link>https://aifactoryhub.github.io/keraskorea/test/</link>
+      <pubDate>Sun, 19 Jan 2020 23:57:38 +0900</pubDate>
+      
+      <guid>https://aifactoryhub.github.io/keraskorea/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ttt</title>
+      <link>https://aifactoryhub.github.io/microsoftmvpkorea/task_202001210411/</link>
+      <pubDate>Sun, 19 Jan 2020 23:57:38 +0900</pubDate>
+      
+      <guid>https://aifactoryhub.github.io/microsoftmvpkorea/task_202001210411/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
