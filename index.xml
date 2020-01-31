@@ -1,76 +1,76 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://aifactoryhub.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>AIFactoryHub</title>
+    <link>https://aifactoryhub.org/</link>
+    <description>Recent content on AIFactoryHub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Jan 2020 02:31:59 +0900</lastBuildDate>
     
-	<atom:link href="https://aifactoryhub.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aifactoryhub.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://aifactoryhub.github.io/about/</link>
+      <link>https://aifactoryhub.org/about/</link>
       <pubDate>Mon, 20 Jan 2020 02:31:59 +0900</pubDate>
       
-      <guid>https://aifactoryhub.github.io/about/</guid>
+      <guid>https://aifactoryhub.org/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Car Model Classification</title>
-      <link>https://aifactoryhub.github.io/kagglekorea/task_202001210413/</link>
+      <link>https://aifactoryhub.org/kagglekorea/task_202001210413/</link>
       <pubDate>Sun, 19 Jan 2020 23:57:38 +0900</pubDate>
       
-      <guid>https://aifactoryhub.github.io/kagglekorea/task_202001210413/</guid>
+      <guid>https://aifactoryhub.org/kagglekorea/task_202001210413/</guid>
       <description></description>
     </item>
     
     <item>
       <title>House Price Prediction</title>
-      <link>https://aifactoryhub.github.io/kagglekorea/task_202001210412/</link>
+      <link>https://aifactoryhub.org/kagglekorea/task_202001210412/</link>
       <pubDate>Sun, 19 Jan 2020 23:57:38 +0900</pubDate>
       
-      <guid>https://aifactoryhub.github.io/kagglekorea/task_202001210412/</guid>
+      <guid>https://aifactoryhub.org/kagglekorea/task_202001210412/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ttt</title>
-      <link>https://aifactoryhub.github.io/gwangai/test/</link>
+      <link>https://aifactoryhub.org/gwangai/test/</link>
       <pubDate>Sun, 19 Jan 2020 23:57:38 +0900</pubDate>
       
-      <guid>https://aifactoryhub.github.io/gwangai/test/</guid>
+      <guid>https://aifactoryhub.org/gwangai/test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ttt</title>
-      <link>https://aifactoryhub.github.io/kagglekorea/task_202001210411/</link>
+      <link>https://aifactoryhub.org/kagglekorea/task_202001210411/</link>
       <pubDate>Sun, 19 Jan 2020 23:57:38 +0900</pubDate>
       
-      <guid>https://aifactoryhub.github.io/kagglekorea/task_202001210411/</guid>
+      <guid>https://aifactoryhub.org/kagglekorea/task_202001210411/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ttt</title>
-      <link>https://aifactoryhub.github.io/keraskorea/test/</link>
+      <link>https://aifactoryhub.org/keraskorea/test/</link>
       <pubDate>Sun, 19 Jan 2020 23:57:38 +0900</pubDate>
       
-      <guid>https://aifactoryhub.github.io/keraskorea/test/</guid>
+      <guid>https://aifactoryhub.org/keraskorea/test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ttt</title>
-      <link>https://aifactoryhub.github.io/microsoftmvpkorea/task_202001210411/</link>
+      <link>https://aifactoryhub.org/microsoftmvpkorea/task_202001210411/</link>
       <pubDate>Sun, 19 Jan 2020 23:57:38 +0900</pubDate>
       
-      <guid>https://aifactoryhub.github.io/microsoftmvpkorea/task_202001210411/</guid>
+      <guid>https://aifactoryhub.org/microsoftmvpkorea/task_202001210411/</guid>
       <description></description>
     </item>
     

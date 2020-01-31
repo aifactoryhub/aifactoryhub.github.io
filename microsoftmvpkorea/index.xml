@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Microsoft MVP Korea on My New Hugo Site</title>
-    <link>https://aifactoryhub.github.io/microsoftmvpkorea/</link>
-    <description>Recent content in Microsoft MVP Korea on My New Hugo Site</description>
+    <title>Microsoft MVP Korea on AIFactoryHub</title>
+    <link>https://aifactoryhub.org/microsoftmvpkorea/</link>
+    <description>Recent content in Microsoft MVP Korea on AIFactoryHub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Mar 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://aifactoryhub.github.io/microsoftmvpkorea/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aifactoryhub.org/microsoftmvpkorea/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ttt</title>
-      <link>https://aifactoryhub.github.io/microsoftmvpkorea/task_202001210411/</link>
+      <link>https://aifactoryhub.org/microsoftmvpkorea/task_202001210411/</link>
       <pubDate>Sun, 19 Jan 2020 23:57:38 +0900</pubDate>
       
-      <guid>https://aifactoryhub.github.io/microsoftmvpkorea/task_202001210411/</guid>
+      <guid>https://aifactoryhub.org/microsoftmvpkorea/task_202001210411/</guid>
       <description></description>
     </item>
     
