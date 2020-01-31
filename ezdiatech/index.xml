@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ezdiateches on AIFactoryHub</title>
+    <link>https://aifactoryhub.org/ezdiatech/</link>
+    <description>Recent content in Ezdiateches on AIFactoryHub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Jan 2020 23:57:38 +0900</lastBuildDate>
+    
+	<atom:link href="https://aifactoryhub.org/ezdiatech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>의료영상 혈액검사 결과 식별 알고리즘 경진대회</title>
+      <link>https://aifactoryhub.org/ezdiatech/ezdiatech_01/</link>
+      <pubDate>Sun, 19 Jan 2020 23:57:38 +0900</pubDate>
+      
+      <guid>https://aifactoryhub.org/ezdiatech/ezdiatech_01/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
