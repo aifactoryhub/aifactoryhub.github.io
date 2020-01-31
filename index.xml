@@ -21,20 +21,38 @@
     </item>
     
     <item>
-      <title>Car Model Classification</title>
-      <link>https://aifactoryhub.org/kagglekorea/task_202001210413/</link>
+      <title>iOS 모바일에서 한글 손글씨 인식하기 (with Keras)</title>
+      <link>https://aifactoryhub.org/keraskorea/mijeongjeon_01/</link>
       <pubDate>Sun, 19 Jan 2020 23:57:38 +0900</pubDate>
       
-      <guid>https://aifactoryhub.org/kagglekorea/task_202001210413/</guid>
+      <guid>https://aifactoryhub.org/keraskorea/mijeongjeon_01/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>House Price Prediction</title>
-      <link>https://aifactoryhub.org/kagglekorea/task_202001210412/</link>
+      <title>iOS 모바일에서 한글 손글씨 인식하기 (with Keras)</title>
+      <link>https://aifactoryhub.org/mijeongjeon/mijeongjeon_01/</link>
       <pubDate>Sun, 19 Jan 2020 23:57:38 +0900</pubDate>
       
-      <guid>https://aifactoryhub.org/kagglekorea/task_202001210412/</guid>
+      <guid>https://aifactoryhub.org/mijeongjeon/mijeongjeon_01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ShapeDetector with Keras and CoreML</title>
+      <link>https://aifactoryhub.org/keraskorea/mijeongjeon_02/</link>
+      <pubDate>Sun, 19 Jan 2020 23:57:38 +0900</pubDate>
+      
+      <guid>https://aifactoryhub.org/keraskorea/mijeongjeon_02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ShapeDetector with Keras and CoreML</title>
+      <link>https://aifactoryhub.org/mijeongjeon/mijeongjeon_02/</link>
+      <pubDate>Sun, 19 Jan 2020 23:57:38 +0900</pubDate>
+      
+      <guid>https://aifactoryhub.org/mijeongjeon/mijeongjeon_02/</guid>
       <description></description>
     </item>
     
@@ -71,6 +89,60 @@
       <pubDate>Sun, 19 Jan 2020 23:57:38 +0900</pubDate>
       
       <guid>https://aifactoryhub.org/microsoftmvpkorea/task_202001210411/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>딥러닝으로 은하 분류하기</title>
+      <link>https://aifactoryhub.org/dafit/dafit_galaxy/</link>
+      <pubDate>Sun, 19 Jan 2020 23:57:38 +0900</pubDate>
+      
+      <guid>https://aifactoryhub.org/dafit/dafit_galaxy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>리뷰 데이터 감성 분석</title>
+      <link>https://aifactoryhub.org/dafit/dafit_review/</link>
+      <pubDate>Sun, 19 Jan 2020 23:57:38 +0900</pubDate>
+      
+      <guid>https://aifactoryhub.org/dafit/dafit_review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>머신러닝을 통한 당뇨병 예측</title>
+      <link>https://aifactoryhub.org/dafit/dafit_illness/</link>
+      <pubDate>Sun, 19 Jan 2020 23:57:38 +0900</pubDate>
+      
+      <guid>https://aifactoryhub.org/dafit/dafit_illness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>의료영상 혈액검사 결과 식별 알고리즘 경진대회</title>
+      <link>https://aifactoryhub.org/ezdiatech/ezdiatech_01/</link>
+      <pubDate>Sun, 19 Jan 2020 23:57:38 +0900</pubDate>
+      
+      <guid>https://aifactoryhub.org/ezdiatech/ezdiatech_01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>자동차 모델 분류</title>
+      <link>https://aifactoryhub.org/kagglekorea/task_202001210413/</link>
+      <pubDate>Sun, 19 Jan 2020 23:57:38 +0900</pubDate>
+      
+      <guid>https://aifactoryhub.org/kagglekorea/task_202001210413/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>집 값 예측</title>
+      <link>https://aifactoryhub.org/kagglekorea/task_202001210412/</link>
+      <pubDate>Sun, 19 Jan 2020 23:57:38 +0900</pubDate>
+      
+      <guid>https://aifactoryhub.org/kagglekorea/task_202001210412/</guid>
       <description></description>
     </item>
     
