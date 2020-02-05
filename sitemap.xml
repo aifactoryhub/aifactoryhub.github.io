@@ -58,11 +58,6 @@
   </url>
   
   <url>
-    <loc>https://aifactoryhub.org/users/</loc>
-    <lastmod>2020-01-19T23:57:38+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aifactoryhub.org/dafit_galaxy/</loc>
     <lastmod>2020-01-19T23:57:38+09:00</lastmod>
   </url>
@@ -128,6 +123,11 @@
   </url>
   
   <url>
+    <loc>https://aifactoryhub.org/users/ezdiatech/</loc>
+    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aifactoryhub.org/users/gwangai/</loc>
     <lastmod>2017-03-23T00:00:00+00:00</lastmod>
   </url>
@@ -148,11 +148,20 @@
   </url>
   
   <url>
+    <loc>https://aifactoryhub.org/users/mijeongjeon/</loc>
+    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aifactoryhub.org/categories/</loc>
   </url>
   
   <url>
     <loc>https://aifactoryhub.org/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://aifactoryhub.org/users/</loc>
   </url>
   
 </urlset>
